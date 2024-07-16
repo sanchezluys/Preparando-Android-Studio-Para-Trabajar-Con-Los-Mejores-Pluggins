@@ -62,6 +62,7 @@
 2. STRING MANIPULATION (EDICION DE TEXTO) https://plugins.jetbrains.com/plugin/2162-string-manipulation
 3. JSONTOKOTLIN  (clase de json)       https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-
 4. ADB IDEA (ATAJOS PARA EL EMULADOR) https://plugins.jetbrains.com/plugin/7380-adb-idea
+5. ADB TOOLS https://plugins.jetbrains.com/plugin/18153-adb-tools
 
 
 ### Otros
