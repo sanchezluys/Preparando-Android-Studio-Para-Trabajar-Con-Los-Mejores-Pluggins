@@ -47,6 +47,23 @@
 - **[ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint):** Identificación de problemas en el código JavaScript y TypeScript.
 - **[HTML CSS Support](https://marketplace.visualstudio.com/items?itemName=ecmel.vscode-html-css):** Autocompletado y soporte de navegación para HTML y CSS.
 
+
+### Visualizar Código
+
+1. RAINBOW BRACKERS (BLOQUES DIFERENCIADOS) https://github.com/izhangzhihao/intellij-rainbow-brackets
+2. INDENT RAINBOW   () https://github.com/dima74/intellij-indent-rainbow
+3. CODE GLANCE      (VISTA GENERAL) https://plugins.jetbrains.com/plugin/18824-codeglance-pro  (mejora viusalizacion en bloques a mano derecha)
+4. PacManProgressBar https://plugins.jetbrains.com/plugin/23967-pacmanprogressbar
+
+
+### Inteligencia Artificial IA
+
+1. TABNINE          (ASISTENTE IA, AUTOCOMPLETADO)    https://plugins.jetbrains.com/plugin/12798-tabnine-ai-code-completion--chat-in-java-js-ts-python--more
+2. STRING MANIPULATION (EDICION DE TEXTO) https://plugins.jetbrains.com/plugin/2162-string-manipulation
+3. JSONTOKOTLIN  (clase de json)       https://plugins.jetbrains.com/plugin/9960-json-to-kotlin-class-jsontokotlinclass-
+4. ADB IDEA (ATAJOS PARA EL EMULADOR) https://plugins.jetbrains.com/plugin/7380-adb-idea
+
+
 ### Otros
 
 - **[GitLens](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens):** Mejora las capacidades de Git en VS Code.
